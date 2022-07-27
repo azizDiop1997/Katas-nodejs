@@ -1,0 +1,19 @@
+{
+  "name": "katas-node",
+  "version": "1.0.0",
+  "description": "katas project",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aziz Diop",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizDiop1997/Katas-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azizDiop1997/Katas-nodejs/issues"
+  },
+  "homepage": "https://github.com/azizDiop1997/Katas-nodejs#readme"
+}
